@@ -1,0 +1,230 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Apiki WP FAQ 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-01-03 23:26-0300\n"
+"PO-Revision-Date: 2012-01-03 23:43-0300\n"
+"Last-Translator: Daniel Antunes Rocha <daniel.antunes.rocha@gmail.com>\n"
+"Language-Team: Apiki WordPress <atendimento@apiki.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: BRAZIL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: ../..\n"
+
+#: ../../apiki-wp-faq-widget.php:20
+msgid "Displays the FAQ"
+msgstr "Exibe a FAQ"
+
+#: ../../apiki-wp-faq-widget.php:23
+msgid "Apiki WP FAQ"
+msgstr "Apiki WP FAQ"
+
+#: ../../apiki-wp-faq-widget.php:76
+msgid "Title"
+msgstr "Título"
+
+#: ../../apiki-wp-faq-widget.php:80
+#: ../../views/mce-window.php:37
+msgid "Number of questions to show"
+msgstr "Número de perguntas a exibir"
+
+#: ../../apiki-wp-faq-widget.php:84
+#: ../../views/mce-window.php:25
+msgid "Show questions by category"
+msgstr "Exibir perguntas por categoria"
+
+#: ../../apiki-wp-faq-widget.php:90
+msgid "Order by"
+msgstr "Ordenar por"
+
+#: ../../apiki-wp-faq-widget.php:92
+#: ../../views/mce-window.php:62
+msgid "Creation date"
+msgstr "Data de criação"
+
+#: ../../apiki-wp-faq-widget.php:93
+#: ../../views/mce-window.php:63
+msgid "Question title"
+msgstr "Pergunta"
+
+#: ../../apiki-wp-faq-widget.php:97
+#: ../../views/mce-window.php:70
+msgid "Ascending"
+msgstr "Ascendente"
+
+#: ../../apiki-wp-faq-widget.php:98
+#: ../../views/mce-window.php:71
+msgid "Descending"
+msgstr "Descendente"
+
+#: ../../apiki-wp-faq.php:143
+msgid "FAQ"
+msgstr "FAQ"
+
+#: ../../apiki-wp-faq.php:144
+msgid "Add New"
+msgstr "Adicionar Nova"
+
+#: ../../apiki-wp-faq.php:145
+msgid "Add New Question"
+msgstr "Adicionar Nova Pergunta"
+
+#: ../../apiki-wp-faq.php:146
+msgid "Edit Question"
+msgstr "Editar Pergunta"
+
+#: ../../apiki-wp-faq.php:147
+msgid "New Question"
+msgstr "Nova Pergunta"
+
+#: ../../apiki-wp-faq.php:148
+msgid "View Question"
+msgstr "Ver Pergunta"
+
+#: ../../apiki-wp-faq.php:149
+msgid "Search Questions"
+msgstr "Pesquisar Perguntas"
+
+#: ../../apiki-wp-faq.php:150
+msgid "No Questions found"
+msgstr "Nenhuma pergunta encontrada"
+
+#: ../../apiki-wp-faq.php:151
+msgid "No Questions found in trash"
+msgstr "Nenhuma pergunta encontrada na lixeira"
+
+#: ../../apiki-wp-faq.php:152
+msgid "All Questions"
+msgstr "Todas as Perguntas"
+
+#: ../../apiki-wp-faq.php:199
+msgid "Sample Question?"
+msgstr "Pergunta de exemplo?"
+
+#: ../../apiki-wp-faq.php:200
+msgid "Here you can add an answer as well as add a content in posts and pages."
+msgstr "Aqui, você pode adicionar uma resposta, assim como adiciona conteúdo em posts e páginas."
+
+#: ../../apiki-wp-faq.php:239
+#, php-format
+msgid "Question updated. <a href=\"%s\">View Question</a>"
+msgstr "Pergunta atualizada. <a href=\"%s\">Ver Pergunta</a>"
+
+#: ../../apiki-wp-faq.php:240
+msgid "Custom field updated."
+msgstr "Campo personalizado atualizado."
+
+#: ../../apiki-wp-faq.php:241
+msgid "Custom field deleted."
+msgstr "Campo personalizado excluído."
+
+#: ../../apiki-wp-faq.php:242
+msgid "Question updated."
+msgstr "Pergunta atualizada."
+
+#: ../../apiki-wp-faq.php:243
+#, php-format
+msgid "Question restored to revision from %s"
+msgstr "Pergunta restaurada para revisão às %s"
+
+#: ../../apiki-wp-faq.php:244
+#, php-format
+msgid "Question published. <a href=\"%s\">View Question</a>"
+msgstr "Pergunta publicada. <a href=\"%s\">Ver Pergunta</a>"
+
+#: ../../apiki-wp-faq.php:245
+msgid "Question saved."
+msgstr "Pergunta salva."
+
+#: ../../apiki-wp-faq.php:246
+#, php-format
+msgid "Question submitted. <a target=\"_blank\" href=\"%s\">Preview question</a>"
+msgstr "Pergunta submetida. <a target=\"_blank\" href=\"%s\">Pré-visualizar pergunta</a>"
+
+#: ../../apiki-wp-faq.php:247
+#, php-format
+msgid "Question scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Preview question</a>"
+msgstr "Pergunta agendada para: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Pré-visualozar pergunta</a>"
+
+#: ../../apiki-wp-faq.php:247
+msgid "M j, Y @ G:i"
+msgstr "j \\d\\e F \\d\\e Y \\à\\s G:i"
+
+#: ../../apiki-wp-faq.php:248
+#, php-format
+msgid "Question draft updated. <a target=\"_blank\" href=\"%s\">Preview question</a>"
+msgstr "Rascunho da pergunta atualizado. <a target=\"_blank\" href=\"%s\">Pré-visualizar pergunta</a>"
+
+#: ../../apiki-wp-faq.php:312
+msgid "Enter question here"
+msgstr "Digite a pergunta aqui"
+
+#: ../../apiki-wp-faq.php:313
+msgid "Question"
+msgstr "Pergunta"
+
+#: ../../apiki-wp-faq.php:356
+msgid "No FAQ found."
+msgstr "Nenhuma questão encontrada."
+
+#: ../../apiki-wp-faq.php:382
+msgid "All categories"
+msgstr "Todas as categorias"
+
+#: ../../apiki-wp-faq.php:386
+msgid "No category until the moment."
+msgstr "Nenhuma categoria até o momento."
+
+#: ../../views/mce-window.php:42
+msgid "All faqs"
+msgstr "Todas as perguntas"
+
+#: ../../views/mce-window.php:57
+msgid "Order By"
+msgstr "Ordenar por"
+
+#: ../../views/mce-window.php:78
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: ../../views/mce-window.php:81
+msgid "Insert"
+msgstr "Inserir"
+
+#~ msgid "Show FAQ."
+#~ msgstr "Exibir FAQ."
+
+#~ msgid "Category"
+#~ msgstr "Categoria"
+
+#~ msgid "Faqs to show"
+#~ msgstr "Questões para exibir"
+
+#~ msgid "Categories"
+#~ msgstr "Categorias"
+
+#~ msgid "Search categories"
+#~ msgstr "Pesquisar categorias"
+
+#~ msgid "Popular categories"
+#~ msgstr "Categorias populares"
+
+#~ msgid "Parent"
+#~ msgstr "Pai"
+
+#~ msgid "Parent category:"
+#~ msgstr "Categoria Pai"
+
+#~ msgid "Edit category"
+#~ msgstr "Editar categoria"
+
+#~ msgid "Update category"
+#~ msgstr "Atualizar categoria"
+
+#~ msgid "New category name"
+#~ msgstr "Novo nome de categoria"
